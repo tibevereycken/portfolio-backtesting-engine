@@ -1,0 +1,15 @@
+# R history en cache
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# Ruwe en commerciële databestanden
+data/raw/*
+!data/raw/.gitkeep
+*.xlsx
+*.csv
+
+# OS metadata
+.DS_Store
+Thumbs.db
